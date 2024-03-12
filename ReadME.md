@@ -36,7 +36,7 @@
 - Time
 
 $\newline$
-- Acceleration = $\frac{\Delta Speed}{\Delta Time}$
+- Acceleration = $\frac{\Delta v}{\Delta t}$
 - Single Wheel Contact = DamperLen > .1?
 	- Still struggling to get this from data source
 
