@@ -3,3 +3,4 @@ Angel Scripts/
 Scratch/
 __pycache__/
 .vscode/
+*.env
