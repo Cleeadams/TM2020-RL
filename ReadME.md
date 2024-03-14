@@ -5,6 +5,9 @@
 	- May need to pay for the club memebership $20 / year.
 2. Install OpenPlanet
 3. Install Plugin Record Raw Vehicle Data
+4. Install packages in requirement.txt
+5. Create a .env file in the config folder
+	- Add MONGO_NM and MONGO_PWD environment variables
 ## Plugin
 - [Record Raw Vehicle Data](https://openplanet.dev/plugin/recordrawvehicledata) from OpenPlanet by XetroV
 
