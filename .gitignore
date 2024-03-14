@@ -2,3 +2,4 @@ venv/
 Angel Scripts/
 Scratch/
 __pycache__/
+.vscode/
